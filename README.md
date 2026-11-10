@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project analyzes a fictional retail sales dataset using Microsoft Excel to evaluate business performance, identify sales trends, and explore opportunities for future growth.
-
+![Retail Sales Dashboard](Screenshot%202026-11-10%20182800.png)
 ## Tools & Skills
 - Microsoft Excel
 - PivotTables and PivotCharts
